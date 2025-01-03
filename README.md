@@ -1,3 +1,6 @@
+<div align="center">
+<img  width=50% height=50% src="https://ik.imagekit.io/hoa6us8np/GitHub/gummy-coding__1__LbafRPEaj.png?updatedAt=1659363492579" alt="banner" />
+</div>
 
 
 <!--h1 without bottom border-->
@@ -10,8 +13,6 @@
 <!--About Me-->
 
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 30px></picture> About me
-
-<picture> <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width = 300px></picture>
 
 - :computer: I am a `Full Stack Web Developer` and `Mobile Developer` with experience since 2013.
 - :iphone: I specialize in `Flutter`, `React`, `Angular`, and `Node.js`.
